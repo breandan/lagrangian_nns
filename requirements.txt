@@ -1,0 +1,5 @@
+jax==0.1.68
+jaxlib==0.1.47
+moviepy==1.0.3
+numpy==1.18.4
+celluloid==0.2.0
